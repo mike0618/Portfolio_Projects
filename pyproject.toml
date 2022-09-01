@@ -1,11 +1,11 @@
 [build-system]
-requires = ["hatching"]
-build-backend = "hatching.build"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
 [project]
 name = "morse_text_miked"
 version = "0.1"
-authors = { name="miked (Mike Zubko)", email="mike0618dev@yahoo.com" }
+authors = [{ name="miked (Mike Zubko)", email="mike0618dev@yahoo.com" }]
 description = "A Text to Morse and back console auto converter"
 readme = "README.md"
 license = { file="LICENSE" }
