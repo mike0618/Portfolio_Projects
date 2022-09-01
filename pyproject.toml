@@ -18,3 +18,4 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/mike0618/Portfolio_Projects/tree/1_Text_to_Morse_Miked"
+"Bug Tracker" = "https://github.com/mike0618/Portfolio_Projects/issues"
