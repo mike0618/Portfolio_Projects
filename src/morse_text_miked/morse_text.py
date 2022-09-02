@@ -32,6 +32,7 @@ def decode(code):
         for sym, mor in morse.items():
             if mor == element:
                 text += sym
+                break
     return text
 
 
