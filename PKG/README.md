@@ -4,7 +4,8 @@ This is a console Tic-Tac-Toe game with AI
 
 # Usage
 ```
-from Tic_Tac_Toe_Miked import ttt
+import ttt
 
+ttt.play()
 ```
 Enjoy!

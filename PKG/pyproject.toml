@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "Tic_Tac_Toe_Miked"
+name = "tic_tac_toe_miked"
 version = "0.1"
 authors = [{ name="miked (Mike Zubko)", email="mike0618dev@yahoo.com" }]
 description = "Tic-Tac-Toe console game with AI"
