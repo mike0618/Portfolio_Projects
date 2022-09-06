@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tic_tac_toe_miked"
-version = "0.1"
+version = "0.3"
 authors = [{ name="miked (Mike Zubko)", email="mike0618dev@yahoo.com" }]
 description = "Tic-Tac-Toe console game with AI"
 readme = "README.md"
