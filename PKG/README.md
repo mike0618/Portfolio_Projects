@@ -1,23 +1,10 @@
-# Text-Morse Package
+# Tic-Tac-Toe Miked
 
-This is a Text to Morse and vise-versa console code converter with auto detection conversion direction
+This is a console Tic-Tac-Toe game with AI
 
 # Usage
-Console auto
 ```
-from morse_text_miked import morse_text
+from Tic_Tac_Toe_Miked import ttt
 
-morse_text.convert()
 ```
-Encoding text to morse
-```
-from morse_text_miked import morse_text
-
-morse_text.encode('text_here')
-```
-Decoding from morse
-```
-from morse_text_miked import morse_text
-
-morse_text.decode('- . -..- - ..--.- .... . .-. .')
-```
+Enjoy!

@@ -3,10 +3,10 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "morse_text_miked"
-version = "0.2"
+name = "Tic_Tac_Toe_Miked"
+version = "0.1"
 authors = [{ name="miked (Mike Zubko)", email="mike0618dev@yahoo.com" }]
-description = "A Text to Morse and back console auto converter"
+description = "Tic-Tac-Toe console game with AI"
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.7"
@@ -17,5 +17,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/mike0618/Portfolio_Projects/tree/1_Text_to_Morse_Miked"
+"Homepage" = "https://github.com/mike0618/Portfolio_Projects/tree/2_Tic_Tac_Toe/PKG"
 "Bug Tracker" = "https://github.com/mike0618/Portfolio_Projects/issues"
