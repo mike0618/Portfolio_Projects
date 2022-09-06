@@ -1,4 +1,5 @@
 from random import getrandbits
+# from tic_tac_toe_miked.classes import AI  # For package
 from classes import AI
 from time import sleep
 
